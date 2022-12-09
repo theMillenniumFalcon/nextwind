@@ -1,0 +1,1 @@
+A Next.js, Tailwindcss, Typescript template.
